@@ -1,7 +1,7 @@
 # Bitácora de inspección HTTP - Semana 1
 
 ## Sitio 1: Estado Colombiano
-**URL completa:** https://www.gov.co/ [cite: 9]
+**URL completa:** https://www.gov.co/
 **Fecha y hora de la observación:** 10 de mayo de 2026, 10:05 AM
 **Código de estado del documento principal:** 304 
 **TTFB:** 130,01 ms 
@@ -19,10 +19,10 @@
 ## Sitio 2: Institución Universitaria (María Cano)
 **URL completa:** https://www.fumc.edu.co/
 **Fecha y hora de la observación:** 10 de mayo de 2026, 10:20 AM
-**Código de estado del documento principal:** 200 OK [cite: 10]
+**Código de estado del documento principal:** 200 OK 
 **TTFB (Time To First Byte):** 1,02 s 
-**Tamaño total transferido:** 988 kB [cite: 10]
-**Número total de peticiones:** 217 [cite: 10]
+**Tamaño total transferido:** 988 kB 
+**Número total de peticiones:** 217 
 **Lista de redirecciones 3xx observadas:** Ninguna en el documento principal.
 **Autoridad emisora del certificado TLS:** GlobalSign RSA OV SSL CA 2018 
 **Fecha de expiración del certificado:** sábado, 7 de noviembre de 2026 
