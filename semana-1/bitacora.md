@@ -1,15 +1,15 @@
 # Bitácora de inspección HTTP - Semana 1
 
 ## Sitio 1: Estado Colombiano
-* [cite_start]**URL completa:** https://www.gov.co/ [cite: 9]
-* **Fecha y hora de la observación:** 10 de mayo de 2026, 10:05 AM
-* [cite_start]**Código de estado del documento principal:** 304 
-* [cite_start]**TTFB:** 130,01 ms 
-* **Tamaño total transferido:** 1,2 MB
-* [cite_start]**Número total de peticiones:** 202 
-* [cite_start]**Lista de redirecciones 3xx:** Ninguna observada. 
-* [cite_start]**Autoridad emisora del certificado TLS:** Amazon 
-* [cite_start]**Fecha de expiración del certificado:** jueves, 19 de noviembre de 2026, 18:59:59 
+**URL completa:** https://www.gov.co/ [cite: 9]
+**Fecha y hora de la observación:** 10 de mayo de 2026, 10:05 AM
+**Código de estado del documento principal:** 304 
+**TTFB:** 130,01 ms 
+**Tamaño total transferido:** 1,2 MB
+[cite_start]**Número total de peticiones:** 202 
+[cite_start]**Lista de redirecciones 3xx:** Ninguna observada. 
+[cite_start]**Autoridad emisora del certificado TLS:** Amazon 
+[cite_start]**Fecha de expiración del certificado:** jueves, 19 de noviembre de 2026, 18:59:59 
 
 ### Evidencias Sitio 1
 ![Panel Network Sitio 1](capturas/sitio1-network.png)
@@ -17,15 +17,15 @@
 ![Tiempo de Respuesta Sitio 1](capturas/sitio1-tiempoderespuesta.png)
 
 ## Sitio 2: Institución Universitaria (María Cano)
-* **URL completa:** https://www.fumc.edu.co/
-* **Fecha y hora de la observación:** 10 de mayo de 2026, 10:20 AM
-* [cite_start]**Código de estado del documento principal:** 200 OK [cite: 10]
-* [cite_start]**TTFB (Time To First Byte):** 1,02 s 
-* [cite_start]**Tamaño total transferido:** 988 kB [cite: 10]
-* [cite_start]**Número total de peticiones:** 217 [cite: 10]
-* **Lista de redirecciones 3xx observadas:** Ninguna en el documento principal.
-* [cite_start]**Autoridad emisora del certificado TLS:** GlobalSign RSA OV SSL CA 2018 
-* [cite_start]**Fecha de expiración del certificado:** sábado, 7 de noviembre de 2026 
+**URL completa:** https://www.fumc.edu.co/
+**Fecha y hora de la observación:** 10 de mayo de 2026, 10:20 AM
+**Código de estado del documento principal:** 200 OK [cite: 10]
+**TTFB (Time To First Byte):** 1,02 s 
+**Tamaño total transferido:** 988 kB [cite: 10]
+**Número total de peticiones:** 217 [cite: 10]
+**Lista de redirecciones 3xx observadas:** Ninguna en el documento principal.
+**Autoridad emisora del certificado TLS:** GlobalSign RSA OV SSL CA 2018 
+**Fecha de expiración del certificado:** sábado, 7 de noviembre de 2026 
 
 ### Evidencias Sitio 2
 ![Panel Network Sitio 2](capturas/sitio2-network.png)
