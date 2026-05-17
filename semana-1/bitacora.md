@@ -6,10 +6,10 @@
 **Código de estado del documento principal:** 304 
 **TTFB:** 130,01 ms 
 **Tamaño total transferido:** 1,2 MB
-[cite_start]**Número total de peticiones:** 202 
-[cite_start]**Lista de redirecciones 3xx:** Ninguna observada. 
-[cite_start]**Autoridad emisora del certificado TLS:** Amazon 
-[cite_start]**Fecha de expiración del certificado:** jueves, 19 de noviembre de 2026, 18:59:59 
+**Número total de peticiones:** 202 
+**Lista de redirecciones 3xx:** Ninguna observada.
+**Autoridad emisora del certificado TLS:** Amazon 
+**Fecha de expiración del certificado:** jueves, 19 de noviembre de 2026, 18:59:59 
 
 ### Evidencias Sitio 1
 ![Panel Network Sitio 1](capturas/sitio1-network.png)
